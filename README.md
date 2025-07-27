@@ -1,68 +1,73 @@
-
----
-
-## 📘 **LinkedIn Job Market Trend Analysis**
-
-```markdown
 # 📊 LinkedIn Job Market Trend Analysis
 
-This project analyzes job listings and company data extracted from LinkedIn to uncover high-demand skills, salary trends, top industries, and market gaps across various sectors.
+This project analyzes job listings and company insights derived from LinkedIn to uncover in-demand skills, industry hiring trends, salary distributions, and the evolving expectations of modern employers.
 
 ---
 
 ## 📌 Project Overview
 
-Using structured job and company-level data scraped from LinkedIn, this project helps answer:
+Job markets evolve fast. Using scraped LinkedIn job data, this project helps answer:
 
-- What are the most in-demand skills in 2024?
+- What are the most in-demand job skills in 2024?
 - Which industries are hiring the most?
-- How do job perks and benefits vary across companies?
-- Are there patterns in salary offerings across sectors?
+- How do job benefits vary across sectors?
+- What are typical salaries for trending roles?
+
+Whether you're a job seeker, analyst, or HR strategist, this project highlights patterns and gaps that can shape hiring strategies and career development.
 
 ---
 
 ## 🧠 Why This Matters
 
-Whether you're a job seeker, career counselor, or data analyst, this project helps:
-
-- Spot industry demand gaps
-- Understand hiring priorities
-- Visualize career trends and future-proof skillsets
+- 🧑‍💼 **Job Seekers**: Align your skills with market demand  
+- 🏢 **Companies**: Benchmark salaries and benefits  
+- 📊 **Analysts**: Explore sectoral hiring patterns and skills heatmaps
 
 ---
 
-## 🛠 Tools & Technologies
+## 📂 Dataset Overview
 
-- Python (pandas, numpy)
-- Jupyter Notebook
-- matplotlib, seaborn
-- Custom scraping logic (data was pre-scraped)
+Structured into three folders inside `/data/`:
+
+- **`job_details/`**
+  - `salaries.csv`: Salary data across roles and industries
+  - `job_skills.csv`: Extracted skills per role
+  - `benefits.csv`: Common perks offered
+  - `job_industries.csv`: Industry mapping
+
+- **`company_details/`**
+  - `companies.csv`: General company info
+  - `company_industries.csv`: Sector classification
+  - `company_specialities.csv`: Expertise tags
+  - `employee_counts.csv`: Company size info
+
+- **`maps/`**
+  - Lookup tables for mapping industries and skills to categories
 
 ---
 
-## 📊 Dataset Details
+## 🛠 Technologies Used
 
-Structured into folders:
-
-- `job_details/`: job titles, skills, industries, salaries, benefits
-- `company_details/`: company types, employee counts, specialties
-- `maps/`: lookup tables to map industry/skills to standard labels
-
-All located in the `data/` folder.
+- **Python** (pandas, numpy)
+- **Visualization**: matplotlib, seaborn
+- **Jupyter Notebook**
+- Data Wrangling & Grouping
+- CSV-based parsing and analysis
 
 ---
 
 ## 🔍 Key Insights
 
-- **Data Analytics, SQL, and Python** remain top job skills
-- **Tech and Finance** lead in average salary offerings
-- **Healthcare & Education** jobs often list flexible work benefits
-- **Startups** offer more benefits than large enterprises on average
+📌 **Top Skills**: Python, SQL, Excel, Communication, Cloud  
+📌 **High-Demand Roles**: Data Analysts, Software Engineers, Product Managers  
+📌 **Salary Trends**: Tech & Finance consistently top-paying  
+📌 **Perks**: Remote work, health insurance, and L&D are most common
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run the Project
 
-1. Install dependencies:
+1. Clone or download this repo
+2. Install dependencies with:
    ```bash
    pip install -r requirements.txt
