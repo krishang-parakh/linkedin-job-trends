@@ -69,4 +69,4 @@ Structured into three folders inside `/data/`:
 
 You can view and run the final working script in Google Colab using the link below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krishang-parakh/linkedin-job-trends/blob/main/job_market_trend_analysis_using_linkedin_data.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krishang-parakh/linkedin-job-trends/blob/main/LinkedIn_Job_Market_Trend_Analysis.ipynb)
