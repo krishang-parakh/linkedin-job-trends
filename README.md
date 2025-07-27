@@ -1,7 +1,7 @@
 
 ---
 
-## 📘 `README.md` for: **LinkedIn Job Market Trend Analysis**
+## 📘 **LinkedIn Job Market Trend Analysis**
 
 ```markdown
 # 📊 LinkedIn Job Market Trend Analysis
