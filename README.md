@@ -65,11 +65,8 @@ Structured into three folders inside `/data/`:
 
 ---
 
-## ▶️ How to Run the Project
+### 🔗 Run the Final Script in Google Colab
 
-1. Clone or download this repo
-2. Install dependencies with:
-   ```bash
-   pip install -r requirements.txt
+You can view and run the final working script in Google Colab using the link below:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krishang-parakh/linkedin-job-trends/blob/main/Job_Market_Trend_Analysis_Using_LinkedIn_Data.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krishang-parakh/linkedin-job-trends/blob/main/job_market_trend_analysis_using_linkedin_data.py)
