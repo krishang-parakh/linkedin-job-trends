@@ -71,3 +71,5 @@ Structured into three folders inside `/data/`:
 2. Install dependencies with:
    ```bash
    pip install -r requirements.txt
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krishang-parakh/linkedin-job-trends/blob/main/Job_Market_Trend_Analysis_Using_LinkedIn_Data.ipynb)
