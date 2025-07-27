@@ -1,4 +1,4 @@
-# 📊 LinkedIn Job Market Trend Analysis
+# 📊 LinkedIn Job Market Trend Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krishang-parakh/linkedin-job-trends/blob/main/LinkedIn_Job_Market_Trend_Analysis.ipynb)
 
 This project analyzes job listings and company insights derived from LinkedIn to uncover in-demand skills, industry hiring trends, salary distributions, and the evolving expectations of modern employers.
 
@@ -62,11 +62,3 @@ Structured into three folders inside `/data/`:
 📌 **High-Demand Roles**: Data Analysts, Software Engineers, Product Managers  
 📌 **Salary Trends**: Tech & Finance consistently top-paying  
 📌 **Perks**: Remote work, health insurance, and L&D are most common
-
----
-
-### 🔗 Run the Final Script in Google Colab
-
-You can view and run the final working script in Google Colab using the link below:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krishang-parakh/linkedin-job-trends/blob/main/LinkedIn_Job_Market_Trend_Analysis.ipynb)
